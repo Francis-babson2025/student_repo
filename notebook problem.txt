@@ -1,0 +1,18 @@
+# 1️⃣ Cancel any half-finished merge
+git merge --abort 2>/dev/null || true
+
+# 2️⃣ Fetch the latest instructor updates
+git fetch upstream
+
+# do a git status to find file
+git status
+
+# 3️⃣ Checkout your own (student’s) version of the file — discard the upstream one
+git checkout --ours classes/week02/monday/exercise/s1-12.ipynb
+
+# 4️⃣ Mark the conflict resolved and commit
+git add classes/week02/monday/exercise/s1-12.ipynb
+git commit -m "Keep student version of s1-12.ipynb (ignore upstream changes)"
+
+# 5️⃣ Re-run your sync command
+git upstream-save

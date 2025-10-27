@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "fname": "Bob",
+        "lname": "Smith",
+        "positions": [
+            {
+                "id": 1,
+                "shares": 100000.04,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "avg_cost": 100000.04
+            }
+        ],
+        "transactions": [
+            {
+                "id": 1,
+                "timestamp": "20250918-175822",
+                "type": "CONTRIBUTION",
+                "shares": 100000.04,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "fname": "Nancy",
+        "lname": "Plimton",
+        "positions": [
+            {
+                "id": 2,
+                "shares": 150123.11,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "avg_cost": 1.0
+            }
+        ],
+        "transactions": [
+            {
+                "id": 2,
+                "timestamp": "20250922-210909",
+                "type": "CONTRIBUTION",
+                "shares": 150000.0,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            },
+            {
+                "id": 2,
+                "timestamp": "20250922-220438",
+                "type": "CONTRIBUTION",
+                "shares": 123.11,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "fname": "s",
+        "lname": "s",
+        "positions": [
+            {
+                "id": 3,
+                "shares": 56.77,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "avg_cost": 1.0
+            }
+        ],
+        "transactions": [
+            {
+                "id": 3,
+                "timestamp": "20250922-223147",
+                "type": "CONTRIBUTION",
+                "shares": 56.77,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "fname": "qwe",
+        "lname": "asd",
+        "positions": [
+            {
+                "id": 4,
+                "shares": 300500.0,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "avg_cost": 1.0
+            }
+        ],
+        "transactions": [
+            {
+                "id": 4,
+                "timestamp": "20250923-142545",
+                "type": "CONTRIBUTION",
+                "shares": 200500.0,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            },
+            {
+                "id": 4,
+                "timestamp": "20250923-143600",
+                "type": "CONTRIBUTION",
+                "shares": 50000.0,
+                "symbol": "$$$$",
+                "name": "Cash",
+                "trn_price": 1.0
+            }
+        ]
+    }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "fname": "Alice",
+    "lname": "Smith",
+    "transactions": [
+      {
+        "type": "BUY",
+        "price": 33.44,
+        "shares": 4,
+        "symbol": "PFE",
+        "date": "2025-01-25",
+        "total": 133.76
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 671.49,
+        "symbol": "",
+        "date": "2025-02-23",
+        "total": 671.49
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 1435.7,
+        "symbol": "",
+        "date": "2025-03-13",
+        "total": 1435.7
+      },
+      {
+        "type": "BUY",
+        "price": 256.04,
+        "shares": 8,
+        "symbol": "IBM",
+        "date": "2025-03-15",
+        "total": 2048.32
+      },
+      {
+        "type": "SELL",
+        "price": 261.38,
+        "shares": 8,
+        "symbol": "IBM",
+        "date": "2025-03-19",
+        "total": 2091.04
+      },
+      {
+        "type": "SELL",
+        "price": 221.03,
+        "shares": 2,
+        "symbol": "AAPL",
+        "date": "2025-04-06",
+        "total": 442.06
+      },
+      {
+        "type": "BUY",
+        "price": 37.85,
+        "shares": 8,
+        "symbol": "PFE",
+        "date": "2025-04-12",
+        "total": 302.8
+      },
+      {
+        "type": "BUY",
+        "price": 217.8,
+        "shares": 2,
+        "symbol": "AAPL",
+        "date": "2025-04-22",
+        "total": 435.6
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 25000.0,
+        "symbol": "",
+        "date": "2025-04-27",
+        "total": 25000.0
+      },
+      {
+        "type": "SELL",
+        "price": 35.69,
+        "shares": 2,
+        "symbol": "PFE",
+        "date": "2025-04-27",
+        "total": 71.38
+      },
+      {
+        "type": "BUY",
+        "price": 36.13,
+        "shares": 9,
+        "symbol": "PFE",
+        "date": "2025-04-28",
+        "total": 325.17
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 873.38,
+        "symbol": "",
+        "date": "2025-04-30",
+        "total": 873.38
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 647.09,
+        "symbol": "",
+        "date": "2025-05-08",
+        "total": 647.09
+      },
+      {
+        "type": "SELL",
+        "price": 36.7,
+        "shares": 9,
+        "symbol": "PFE",
+        "date": "2025-06-23",
+        "total": 330.3
+      }
+    ]
+  },
+  {
+    "fname": "Bob",
+    "lname": "Jones",
+    "transactions": [
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 25000.00,
+        "symbol": "$$$$",
+        "date": "2025-01-02",
+        "total": 25000.00
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 990.47,
+        "symbol": "$$$$",
+        "date": "2025-01-29",
+        "total": 990.47
+      },
+      {
+        "type": "BUY",
+        "price": 136.12,
+        "shares": 6,
+        "symbol": "WMT",
+        "date": "2025-02-07",
+        "total": 816.72
+      },
+      {
+        "type": "BUY",
+        "price": 137.15,
+        "shares": 4,
+        "symbol": "WMT",
+        "date": "2025-02-15",
+        "total": 548.60
+      },
+      {
+        "type": "SELL",
+        "price": 135.0,
+        "shares": 2,
+        "symbol": "WMT",
+        "date": "2025-03-11",
+        "total": 270.00
+      },
+      {
+        "type": "BUY",
+        "price": 220.08,
+        "shares": 3,
+        "symbol": "AAPL",
+        "date": "2025-03-01",
+        "total": 660.24
+      },
+      {
+        "type": "BUY",
+        "price": 220.18,
+        "shares": 5,
+        "symbol": "AAPL",
+        "date": "2025-03-01",
+        "total": 1100.90
+      },
+      {
+        "type": "SELL",
+        "price": 220.15,
+        "shares": 3,
+        "symbol": "AAPL",
+        "date": "2025-03-01",
+        "total": 660.45
+      },
+      {
+        "type": "BUY",
+        "price": 31.28,
+        "shares": 5,
+        "symbol": "PFE",
+        "date": "2025-03-06",
+        "total": 156.40
+      },
+      {
+        "type": "BUY",
+        "price": 30.18,
+        "shares": 9,
+        "symbol": "PFE",
+        "date": "2025-03-06",
+        "total": 271.62
+      },
+      {
+        "type": "SELL",
+        "price": 32.18,
+        "shares": 5,
+        "symbol": "PFE",
+        "date": "2025-03-06",
+        "total": 160.90
+      },
+      {
+        "type": "SELL",
+        "price": 144.63,
+        "shares": 5,
+        "symbol": "WMT",
+        "date": "2025-05-30",
+        "total": 723.15
+      },
+      {
+        "type": "BUY",
+        "price": 284.30,
+        "shares": 5,
+        "symbol": "IBM",
+        "date": "2025-03-06",
+        "total": 1421.50
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 273.34,
+        "symbol": "$$$$",
+        "date": "2025-06-11",
+        "total": 273.34
+      }
+    ]
+  },
+  {
+    "fname": "Carol",
+    "lname": "Williams",
+    "transactions": [
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 1446.08,
+        "symbol": "",
+        "date": "2025-01-01",
+        "total": 1446.08
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 997.86,
+        "symbol": "",
+        "date": "2025-01-10",
+        "total": 997.86
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 1011.23,
+        "symbol": "",
+        "date": "2025-01-19",
+        "total": 1011.23
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 25000.0,
+        "symbol": "",
+        "date": "2025-01-20",
+        "total": 25000.0
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 300.63,
+        "symbol": "",
+        "date": "2025-02-06",
+        "total": 300.63
+      },
+      {
+        "type": "CONTRIBUTION",
+        "price": 1.0,
+        "shares": 858.79,
+        "symbol": "",
+        "date": "2025-02-09",
+        "total": 858.79
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 217.27,
+        "symbol": "",
+        "date": "2025-02-15",
+        "total": 217.27
+      },
+      {
+        "type": "BUY",
+        "price": 220.08,
+        "shares": 3,
+        "symbol": "AAPL",
+        "date": "2025-03-01",
+        "total": 660.24
+      },
+      {
+        "type": "BUY",
+        "price": 31.18,
+        "shares": 5,
+        "symbol": "PFE",
+        "date": "2025-03-06",
+        "total": 155.9
+      },
+      {
+        "type": "BUY",
+        "price": 39.22,
+        "shares": 10,
+        "symbol": "PFE",
+        "date": "2025-04-22",
+        "total": 392.2
+      },
+      {
+        "type": "BUY",
+        "price": 35.77,
+        "shares": 4,
+        "symbol": "PFE",
+        "date": "2025-05-03",
+        "total": 143.08
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 517.46,
+        "symbol": "",
+        "date": "2025-05-21",
+        "total": 517.46
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 228.3,
+        "symbol": "",
+        "date": "2025-06-09",
+        "total": 228.3
+      },
+      {
+        "type": "WITHDRAWAL",
+        "price": 1.0,
+        "shares": 956.79,
+        "symbol": "",
+        "date": "2025-06-30",
+        "total": 956.79
+      }
+    ]
+  }
+]

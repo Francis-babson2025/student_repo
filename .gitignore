@@ -1,0 +1,41 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# -------------------------
+# VS Code
+# -------------------------
+
+.history/
+
+# -------------------------
+# GitHub Codespaces
+# -------------------------
+*.codespace
+*.code-workspace
+
+
+# -------------------------
+# OS-generated files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+!*.pdf
+tempCodeRunnerFile.*
+
+
+*.vsix

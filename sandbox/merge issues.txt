@@ -1,0 +1,14 @@
+U       classes/week02/monday/exercise/s1-12.ipynb
+U       classes/week02/wednesday/exercises/s13-22.ipynb
+U       classes/week04/monday/exercise/q23-26.ipynbS
+
+rename files you want to keep
+
+# Overwrite every conflicted file with the class repo ("theirs")
+git checkout --theirs .
+
+# Stage them all as resolved
+git add .
+
+# Finish the merge
+git commit -m "Resolved merge by accepting class repo versions for all conflicts"

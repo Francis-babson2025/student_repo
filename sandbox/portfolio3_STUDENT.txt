@@ -1,0 +1,9 @@
+grep -rl "from portfolio3." portfolio3_STUDENT/ --include="*.py"
+
+grep -rl "from portfolio3." portfolio3_STUDENT/ --include="*.py" \
+  | xargs sed 's/from portfolio3\./from portfolio3_STUDENT./g'
+
+grep -rl "from portfolio3." portfolio3_STUDENT/ --include="*.py" \
+  | xargs sed -i.bak 's/from portfolio3\./from portfolio3_STUDENT./g'
+
+find portfolio3_STUDENT/ -name "*.bak" -delete

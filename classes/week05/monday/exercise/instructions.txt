@@ -1,0 +1,10 @@
+Prepare with your solutions for ai_move.py and calc_score.py from Lab 2 (Tic-Tac-Toe).
+
+Both functions are pretty straightforward. You may use the starter code in calc_score.py, but it’s not required. 
+Implement calc_score so it checks the 8 winning lines (3 rows, 3 columns, 2 diagonals) and:
+
+returns 30 if the cells in a line sum to 30,
+returns -30 if they sum to -30,
+otherwise returns 0.
+
+See you Monday — thanks!

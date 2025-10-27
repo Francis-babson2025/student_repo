@@ -1,0 +1,6 @@
+Do the bookstore_transactions_exercise.  It will prepare you for the quiz on Wednesday.
+Look at program_flow_&ct.pdf.  you should be able to answer the questions in green
+Look at the russiandolls.pdf (why did I call it russiandolls?) you may see this structure again (soon)
+
+If you have time, start working on python_practice_exercises.  
+Will do some in class and then leave the rest for you to do by monday
