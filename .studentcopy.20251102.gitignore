@@ -7,9 +7,6 @@ __pycache__/
 *.pyd
 *.so
 
-!labs/lab3/GAME_CODESPACE_ONLY/__pycache__/
-!labs/lab3/GAME_CODESPACE_ONLY/__pycache__/**
-
 # Virtual environments
 venv/
 .env/
@@ -42,12 +39,3 @@ tempCodeRunnerFile.*
 
 
 *.vsix
-
-# -------------------------
-# Devcontainer and VS Code setup
-# -------------------------
-!.devcontainer/
-!.devcontainer/**
-!.vscode/
-!.vscode/**
-
