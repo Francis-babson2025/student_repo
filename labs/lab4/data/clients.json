@@ -1,0 +1,41 @@
+{
+  "Alice": {
+    "cash": 123.0,
+    "positions": [
+      {
+        "sym": "AAPL",
+        "name": "AAPL",
+        "shares": 2,
+        "cost": 300.0
+      }
+    ]
+  },
+  "Bob": {
+    "cash": 500.0,
+    "positions": [
+      {
+        "sym": "MSFT",
+        "name": "MSFT",
+        "shares": 3,
+        "cost": 900.0
+      }
+    ]
+  },
+  "David": {
+    "cash": 778750.0,
+    "positions": [
+      {
+        "sym": "IBM",
+        "name": "IBM",
+        "shares": 750.0,
+        "cost": 101250.0
+      },
+      {
+        "sym": "AAPL",
+        "name": "AAPL",
+        "shares": 800.0,
+        "cost": 120000.0
+      }
+    ]
+  }
+}

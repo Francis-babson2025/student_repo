@@ -1,0 +1,6 @@
+
+pytest
+yfinance
+pandas
+numpy
+pytz
